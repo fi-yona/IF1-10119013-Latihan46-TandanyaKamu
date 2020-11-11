@@ -74,6 +74,8 @@ public class OOTandanyaKamu {
         System.out.println("Hari ini tahun : " + oo.getYearNow());
         System.out.println("Umur kamu sampai hari ini adalah " + oo.hitungUmur() + " tahun");
         System.out.println("Tandanya kamu " + oo.red + oo.tandanyaKamu(oo.hitungUmur()));
+        System.out.println();
+        System.out.println("by. Fiona Avila");
     }
     
 }
